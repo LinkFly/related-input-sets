@@ -1,0 +1,19 @@
+input {
+	display: block;
+}
+
+.selection-hints {
+	display: none;
+}
+
+#sendSelectedArea {
+	margin-top: 10px;
+}
+
+.area-inputs {
+	width: 200px;
+}
+
+#region {
+	disabled: true;
+}
